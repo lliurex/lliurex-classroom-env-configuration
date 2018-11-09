@@ -1,0 +1,15 @@
+Source: lliurex-classroom-env-configuration
+Section: misc
+Priority: standard
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://lliurex.net
+Vcs-Git: https://github.com/lliurex/lliurex-classroom-env-configuration.git
+
+Package: lliurex-classroom-env-configuration
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, policykit-1
+Description:  Classroom environment configuration
+ Provides multiple environment configurations for server
+ and clients.
