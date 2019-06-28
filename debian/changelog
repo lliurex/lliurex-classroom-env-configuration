@@ -1,3 +1,9 @@
+lliurex-classroom-env-configuration (0.3) bionic; urgency=medium
+
+  * Remove systemd-resolved from classroom for lliurex-guard
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Jun 2019 10:11:39 +0200
+
 lliurex-classroom-env-configuration (0.2) bionic; urgency=medium
 
   * First Bionic version
