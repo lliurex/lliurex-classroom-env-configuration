@@ -1,3 +1,9 @@
+lliurex-classroom-env-configuration (0.4.1) bionic; urgency=medium
+
+  * Stop systemd-resolved service and remove /etc/resolv.conf if is a link
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Jun 2019 12:05:04 +0200
+
 lliurex-classroom-env-configuration (0.4) bionic; urgency=medium
 
   * Remove systemd-resolved from classroom for lliurex-guard
